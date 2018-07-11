@@ -1,0 +1,8 @@
+applications:
+- name: testtt
+  buildpack: php_buildpack
+  memory: 256m
+  disk_quota: 256m
+  instances: 1
+  
+   
