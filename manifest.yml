@@ -1,5 +1,5 @@
 applications:
-- name: testtt
+- name: testttphp
   buildpack: php_buildpack
   memory: 256m
   disk_quota: 256m
